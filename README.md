@@ -7,9 +7,9 @@
 - **Institution:** Czech Technical University in Prague, Faculty of Civil Engineering, Department of Geomatics  
 - **Subject:** [155PKAR](https://k155cvut.github.io/pkar/)  
 - **Date:** 18.05.2025  
-- **Coordinate system:** LAEA [EPSG:3035]
+- **Coordinate system:** LAEA [EPSG:3035] 
 
-Download Map
+## Download Map
 [Download the PDF](PKAR2025_Roucka.pdf)
 
 ## Preview
