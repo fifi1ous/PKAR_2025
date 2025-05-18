@@ -13,4 +13,4 @@
 [View or download the PDF](PKAR2025_Roucka.pdf)
 
 ## Preview
-[![Preview](LaTeX/Image/preview.png)]
+[![Preview](LaTeX/Image/preview.png)](LaTeX/main.pdf)
