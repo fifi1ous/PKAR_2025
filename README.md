@@ -8,6 +8,7 @@
 - **Subject:** [155PKAR](https://k155cvut.github.io/pkar/)  
 - **Date:** 18.05.2025  
 - **Coordinate system:** LAEA [EPSG:3035]
+- **Format of paper:** A1
 
 ## Documentation
 [Documentation](Documentation.pdf)
