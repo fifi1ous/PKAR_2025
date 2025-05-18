@@ -9,8 +9,8 @@
 - **Date:** 18.05.2025  
 - **Coordinate system:** LAEA [EPSG:3035]
 
-## View or download Map
-[View or download the PDF](PKAR2025_Roucka.pdf)
+Download Map
+[Download the PDF](PKAR2025_Roucka.pdf)
 
 ## Preview
-[![Preview](LaTeX/Image/preview.png)]
+![Preview](LaTeX/Image/preview.png)(PKAR2025_Roucka.pdf)
