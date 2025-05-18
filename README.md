@@ -16,7 +16,7 @@
 [Data](data)
 
 ## Download Map
-[Download the PDF](PKAR2025_Roucka.pdf)
+[Download PDF](PKAR2025_Roucka.pdf)
 
 ## Preview
 ![Preview](LaTeX/Image/preview.png)
