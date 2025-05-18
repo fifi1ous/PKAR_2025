@@ -19,4 +19,4 @@
 [Download the PDF](PKAR2025_Roucka.pdf)
 
 ## Preview
-![Preview](LaTeX/Image/preview.png)(PKAR2025_Roucka.pdf)
+![Preview](LaTeX/Image/preview.png)
