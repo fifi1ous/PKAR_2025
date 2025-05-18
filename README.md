@@ -1,4 +1,4 @@
-# PKAR 2025 Light Pollution
+# PKAR 2025 Light Pollution in Europe
 
 
 ## Imprint
