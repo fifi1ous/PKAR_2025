@@ -21,6 +21,7 @@
 
 ### Separete maps
 Main map can be devided into 3 standalone maps which can be foun in folder [maps](maps)
+
 -[Light pollution in Europe in 2024](maps/Light_Pollution_in_CZ_2024.pdf.pdf)
 -[Solar Eclipse in Europe in 2026](maps/Solar_Eclipse_Europe_2026.pdf)
 -[Light pollution in the Czech Republic in 2024](maps/Light_Pollution_in_CZ_2024.pdf)
